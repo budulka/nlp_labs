@@ -1,3 +1,8 @@
-requests
-lxml
-beautifulsoup4
+spacy==3.8.11
+gensim==4.4.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+numpy==2.4.2
+vaderSentiment==3.3.2
+en_core_news_sm==3.8.0
+uk_core_news_sm==3.8.0
