@@ -1,3 +1,9 @@
 venv311
 lab2/.venv311
 zvit*
+.venv
+venv
+lab4/.venv
+__pycache__
+.ipynb_checkpoints
+data
